@@ -7,7 +7,6 @@
   * all with no curse words
   * all with good words
   * no more bad things
-* 📫 Reach me at Stockholm, Järfälla, 92D
 * 🔭 I’m currently working on something cool, such as:
   * Youssef Land
   * Youssef Land games
