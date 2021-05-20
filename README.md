@@ -7,5 +7,12 @@
   * no curse words
   * all with good words
   * no more bad things
+* 📫 Reach me at Stockholm, Järfälla, 92D
+* 🔭 I’m currently working on something cool, such as:
+  * Youssef Land
+  * Youssef Land games
+  * Youssef Land: Journey to Sonic's World (PyCharm project demo, full version installation file coming soon)
+  * Sonic the Hedgehog (PyGame demo, full installation file coming soon)
+  * YouTube Partner Program joining (1000 subscribers total, 4000 public watch hours total) 
 
 <!-- Please be aware that curse words violate The Youssef Nasr Company and Youssef Land. -->
