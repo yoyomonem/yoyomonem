@@ -15,4 +15,8 @@
   * __YouTube Partner Program__ joining (1000 subscribers total, 4000 public watch hours total, only at [my YouTube channel](https://www.youtube.com/channel/UCugJUYbdENnn-R1Y8ZwPN7A))
 * 🌱 I’m currently learning with help from [GitHub Docs](docs.github.com) 
 
+
+Learn more why this README.md is visible in [GitHub Docs](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme).
+
+
 <!-- Please be aware that curse words violate The Youssef Nasr Company and Youssef Land. -->
