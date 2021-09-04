@@ -16,7 +16,7 @@
 * 🌱 I’m currently learning with help from [GitHub Docs](docs.github.com) 
 
 
-Learn more why this ReadMe is visible in [GitHub Docs](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme).
+Learn more why this README is visible in [GitHub Docs](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme).
 
 
 <!-- Please be aware that curse words violate The Youssef Nasr Company and Youssef Land. -->
