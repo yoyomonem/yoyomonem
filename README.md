@@ -1,11 +1,16 @@
-### Youssef Nasr
+# Hi, I'm Youssef
 
-<details><summary align="center">Want to see something cool? Click here to open this tab on Firefox.</summary><img src="Youssef Land.png" height="166"><br/><br/><br/><br/></details>
+Hello! [I'm Youssef!](https://github.com/yoyomonem) I come from Egypt (well, not the ancient one). [I use GitHub for creating my own things.](https://github.com) [You can get to Youssef Land](https://github.com/The-Youssef-Nasr-Company/Youssef-Land) if you want.
+
+## My used languages
 
 <img src="https://stats4github.vercel.app/api/top-langs/?username=yoyomonem&langs_count=11&hide=html&layout=compact"><br>
 
+## About Me
 
-<!--**yoyomonem/yoyomonem** is a ✨ **_special_** ✨ repository because its `README.md` **(this file)** appears on [my GitHub profile](https://github.com/yoyomonem/). Just sign up or sign in to visit [my GitHub profile](https://github.com/yoyomonem/). Seeing something unexpected at GitHub profiles? Take a look at the [GitHub profile guide](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile). __[Don't know who I am?](https://github.community/t/about-me-that-is-my-info/199378)__-->
+[SECRET: **yoyomonem/yoyomonem** is a ✨ **_special_** ✨ repository because its `README.md` **(this file)** appears on [my GitHub profile](https://github.com/yoyomonem). Just sign up or sign in to visit [my GitHub profile](https://github.com/yoyomonem/). Seeing something unexpected at GitHub profiles? Take a look at the [GitHub profile guide](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile)].
+
+__[Don't know who I am?](https://github.community/t/about-me-that-is-my-info/199378)__
 
 * 💬 Ask me about all of GitHub, such as:
   * all with no curse words
