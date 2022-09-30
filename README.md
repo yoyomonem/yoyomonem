@@ -4,7 +4,7 @@ Hello! [I'm Youssef!](https://github.com/yoyomonem) I come from Egypt (well, not
 
 ## My used languages
 
-<img src="https://stats4github.vercel.app/api/top-langs/?username=yoyomonem&langs_count=11&hide=html&layout=compact"><br>
+<img src="https://stats4github.vercel.app/api/top-langs/?username=yoyomonem&langs_count=30&hide=html&layout=compact](https://stats4github.vercel.app/api/top-langs/?username=yoyomonem&langs_count=30&layout=compact"><br>
 
 ## About Me
 
