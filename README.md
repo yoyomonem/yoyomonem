@@ -6,12 +6,7 @@ Hello! [I'm Youssef!](https://github.com/yoyomonem) I come from Egypt (well, not
 
 [SECRET: **yoyomonem/yoyomonem** is a ✨ **_special_** ✨ repository because its `README.md` **(this file)** appears on [my GitHub profile](https://github.com/yoyomonem). Just sign up or sign in to visit [my GitHub profile](https://github.com/yoyomonem/). Seeing something unexpected at GitHub profiles? Take a look at the [GitHub profile guide](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile).]
 
-__[Don't know who I am? (NO LONGER AVAILABLE ☹️)](https://github.community/t/about-me-that-is-my-info/199378)__
-
-* 💬 Ask me about all of GitHub, such as:
-  * all with no curse words
-  * all with good words
-  * no more bad things
+* 💬 Ask me about all of GitHub, but make sure your question is 100% swearing-free.
 * 🔭 I’m currently working on something cool, such as:
   * Youssef Land
   * Youssef Land games
