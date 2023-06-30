@@ -19,4 +19,8 @@ Hello! [I'm Youssef!](https://github.com/yoyomonem) I come from Egypt (well, not
 Learn more why this README is visible in [GitHub Docs](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme).
 
 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=yoyomonem)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 <!-- Please be aware that curse words violate The Youssef Nasr Company and Youssef Land ❌. -->
