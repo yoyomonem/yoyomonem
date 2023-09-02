@@ -12,7 +12,7 @@ Hello! [I'm Youssef!](https://github.com/yoyomonem) I come from Egypt (well, not
   * Youssef Land games
   * Youssef Land: Journey to Sonic's World (PyCharm project demo, full version installation file coming soon)
   * Sonic the Hedgehog (PyGame demo, full version installation file coming soon)
-  * __YouTube Partner Program__ joining (1000 subscribers total, 4000 public watch hours total, [only at my YouTube channel [click on me to go to my YouTube channel]](https://www.youtube.com/channel/UCugJUYbdENnn-R1Y8ZwPN7A))
+  * __YouTube Partner Program__ joining (1000 subscribers total, 4000 public watch hours total, [only at my YouTube channel {[click on me to go to my YouTube channel](https://www.youtube.com/@YoussefLand2023)})
 * 🌱 I’m currently learning with help from [GitHub Docs](docs.github.com) 
 
 
