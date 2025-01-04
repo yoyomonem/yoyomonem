@@ -1,3 +1,7 @@
+Hi, I'm Youssef. I'm an Egyptian programmer and animator.
+- 💬 If you want to contact me, email me on youssef.land@outlook.com (it's the email address I use most of the time).
+
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=yoyomonem)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Youssef's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yoyomonem)](https://github.com/anuraghazra/github-readme-stats)
