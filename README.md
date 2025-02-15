@@ -1,6 +1,7 @@
 Hi, I'm Youssef. I'm an Egyptian programmer and animator.
 - 💬 If you want to contact me, email me on youssef.land@outlook.com (it's the email address I use most of the time).
 
+[![Me](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=250&width=435&lines=Scratch+user;Open+source+developer;Animator)](https://git.io/typing-svg)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=yoyomonem)](https://github.com/ryo-ma/github-profile-trophy)
 
